@@ -1,4 +1,4 @@
-# ywol-front
+# ywol
 
 ## Project setup
 ```
