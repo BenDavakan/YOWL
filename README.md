@@ -1,4 +1,4 @@
-# ywol
+# yowl
 
 ## Project setup
 ```
